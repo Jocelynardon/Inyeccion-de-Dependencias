@@ -1,0 +1,15 @@
+C:\Users\Jocelyn Ardón\source\repos\Laboratorio_Inyección_Dependencias\obj\Debug\net7.0\Laboratorio_Inyección_Dependencias.csproj.AssemblyReference.cache
+C:\Users\Jocelyn Ardón\source\repos\Laboratorio_Inyección_Dependencias\obj\Debug\net7.0\Laboratorio_Inyección_Dependencias.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jocelyn Ardón\source\repos\Laboratorio_Inyección_Dependencias\obj\Debug\net7.0\Laboratorio_Inyección_Dependencias.AssemblyInfoInputs.cache
+C:\Users\Jocelyn Ardón\source\repos\Laboratorio_Inyección_Dependencias\obj\Debug\net7.0\Laboratorio_Inyección_Dependencias.AssemblyInfo.cs
+C:\Users\Jocelyn Ardón\source\repos\Laboratorio_Inyección_Dependencias\obj\Debug\net7.0\Laboratorio_Inyección_Dependencias.csproj.CoreCompileInputs.cache
+C:\Users\Jocelyn Ardón\source\repos\Laboratorio_Inyección_Dependencias\bin\Debug\net7.0\Laboratorio_Inyección_Dependencias.exe
+C:\Users\Jocelyn Ardón\source\repos\Laboratorio_Inyección_Dependencias\bin\Debug\net7.0\Laboratorio_Inyección_Dependencias.deps.json
+C:\Users\Jocelyn Ardón\source\repos\Laboratorio_Inyección_Dependencias\bin\Debug\net7.0\Laboratorio_Inyección_Dependencias.runtimeconfig.json
+C:\Users\Jocelyn Ardón\source\repos\Laboratorio_Inyección_Dependencias\bin\Debug\net7.0\Laboratorio_Inyección_Dependencias.dll
+C:\Users\Jocelyn Ardón\source\repos\Laboratorio_Inyección_Dependencias\bin\Debug\net7.0\Laboratorio_Inyección_Dependencias.pdb
+C:\Users\Jocelyn Ardón\source\repos\Laboratorio_Inyección_Dependencias\obj\Debug\net7.0\Laboratorio_Inyección_Dependencias.dll
+C:\Users\Jocelyn Ardón\source\repos\Laboratorio_Inyección_Dependencias\obj\Debug\net7.0\refint\Laboratorio_Inyección_Dependencias.dll
+C:\Users\Jocelyn Ardón\source\repos\Laboratorio_Inyección_Dependencias\obj\Debug\net7.0\Laboratorio_Inyección_Dependencias.pdb
+C:\Users\Jocelyn Ardón\source\repos\Laboratorio_Inyección_Dependencias\obj\Debug\net7.0\Laboratorio_Inyección_Dependencias.genruntimeconfig.cache
+C:\Users\Jocelyn Ardón\source\repos\Laboratorio_Inyección_Dependencias\obj\Debug\net7.0\ref\Laboratorio_Inyección_Dependencias.dll

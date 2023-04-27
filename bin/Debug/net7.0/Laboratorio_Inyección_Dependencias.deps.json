@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Laboratorio_Inyección_Dependencias/1.0.0": {
+        "runtime": {
+          "Laboratorio_Inyección_Dependencias.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Laboratorio_Inyección_Dependencias/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
