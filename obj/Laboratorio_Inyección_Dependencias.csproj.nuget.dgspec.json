@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Jocelyn Ardón\\source\\repos\\Laboratorio_Inyección_Dependencias\\Laboratorio_Inyección_Dependencias.csproj": {}
+    "E:\\Primer Ciclo 2023\\INGENIERÍA DE SOFTWARE II\\1\\Laboratorio_Inyección_Dependencias\\Laboratorio_Inyección_Dependencias.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Jocelyn Ardón\\source\\repos\\Laboratorio_Inyección_Dependencias\\Laboratorio_Inyección_Dependencias.csproj": {
+    "E:\\Primer Ciclo 2023\\INGENIERÍA DE SOFTWARE II\\1\\Laboratorio_Inyección_Dependencias\\Laboratorio_Inyección_Dependencias.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jocelyn Ardón\\source\\repos\\Laboratorio_Inyección_Dependencias\\Laboratorio_Inyección_Dependencias.csproj",
+        "projectUniqueName": "E:\\Primer Ciclo 2023\\INGENIERÍA DE SOFTWARE II\\1\\Laboratorio_Inyección_Dependencias\\Laboratorio_Inyección_Dependencias.csproj",
         "projectName": "Laboratorio_Inyección_Dependencias",
-        "projectPath": "C:\\Users\\Jocelyn Ardón\\source\\repos\\Laboratorio_Inyección_Dependencias\\Laboratorio_Inyección_Dependencias.csproj",
+        "projectPath": "E:\\Primer Ciclo 2023\\INGENIERÍA DE SOFTWARE II\\1\\Laboratorio_Inyección_Dependencias\\Laboratorio_Inyección_Dependencias.csproj",
         "packagesPath": "C:\\Users\\Jocelyn Ardón\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jocelyn Ardón\\source\\repos\\Laboratorio_Inyección_Dependencias\\obj\\",
+        "outputPath": "E:\\Primer Ciclo 2023\\INGENIERÍA DE SOFTWARE II\\1\\Laboratorio_Inyección_Dependencias\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Jocelyn Ardón\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -39,6 +39,16 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.Extensions.Hosting": {
+              "target": "Package",
+              "version": "[7.0.1, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
